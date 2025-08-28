@@ -1,0 +1,4 @@
+class BaseConfig():
+    OPTIONS_LIST = ["Pawn", "King", "Queen"]
+    CHESS_BOARD_ALPHA_OPTIONS = "ABCDEFGH"
+    CHESS_BOARD_NUMERIC_OPTIONS = "12345678"
